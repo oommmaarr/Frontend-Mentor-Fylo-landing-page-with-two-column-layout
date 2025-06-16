@@ -319,12 +319,13 @@ ul li:hover {
   nav img {
     top: 0;
     width: 85px;
-    margin-top: -5px;
+    margin : 0px;
+    margin-left: -20px;
     height: 35px;
   }
   nav ul li {
     right: 0;
-    padding-left: 25px;
+    padding-left: 20px;
     font-size: 14px;
   }
   /*section 2*/
@@ -363,7 +364,7 @@ ul li:hover {
   display: block;
   margin: 0px 0px;
   margin-bottom: 70px;
-  width: 400px;
+  width: 350px;
 }
 /*section 3*/
 .section3 {
@@ -371,12 +372,10 @@ ul li:hover {
   flex-direction: column-reverse;
   justify-content: center;
   align-items: center;
-  width: 100vw;
   height:auto;
 }
 .all3 {
   margin: 0px 0px 0px 0px;
-  width: 100vw;
 }
 .section3 .sec31{
     display: flex;
